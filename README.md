@@ -21,15 +21,19 @@ I'm a self-taught developer who loves building things and exploring new technolo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silasWorked&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/silasWorked">
+    <img src="https://img.shields.io/github/followers/silasWorked?label=Followers&style=flat-square&logo=github" alt="Followers" />
+  </a>
+  <a href="https://github.com/silasWorked/silasWorked">
+    <img src="https://img.shields.io/github/repo-size/silasWorked/silasWorked?style=flat-square" alt="Repo Size" />
+  </a>
+  <a href="https://github.com/silasWorked/silasWorked">
+    <img src="https://img.shields.io/github/languages/top/silasWorked/gemini-assistant?style=flat-square" alt="Top Language" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=silasWorked&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasWorked&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 📫 Let's Connect
