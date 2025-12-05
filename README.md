@@ -6,9 +6,9 @@ I'm a self-taught developer who loves building things and exploring new technolo
 
 ## 🚀 Featured Project
 
-[![Gemini Assistant](https://github-readme-stats.vercel.app/api/pin/?username=silasWorked&repo=gemini-assistant&theme=tokyonight)](https://github.com/silasWorked/gemini-assistant)
-
-**Gemini Assistant** — A powerful AI assistant with OS-level tools, built with Flutter. Features 22+ system tools, persistent memory, and multi-language support.
+<a href="https://github.com/silasWorked/gemini-assistant">
+  <img src="https://opengraph.githubassets.com/1/silasWorked/gemini-assistant" width="300" alt="Gemini Assistant">
+</a>
 
 ## 🛠️ Tech Stack
 
