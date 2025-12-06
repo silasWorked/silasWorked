@@ -10,27 +10,8 @@ I'm a self-taught developer who loves building things and exploring new technolo
   <img src="https://opengraph.githubassets.com/1/silasWorked/gemini-assistant" width="300" alt="Gemini Assistant">
 </a>
 
-## 🛠️ Tech Stack
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/silasWorked">
-    <img src="https://img.shields.io/github/followers/silasWorked?label=Followers&style=flat-square&logo=github" alt="Followers" />
-  </a>
-  <a href="https://github.com/silasWorked/silasWorked">
-    <img src="https://img.shields.io/github/repo-size/silasWorked/silasWorked?style=flat-square" alt="Repo Size" />
-  </a>
-  <a href="https://github.com/silasWorked/silasWorked">
-    <img src="https://img.shields.io/github/languages/top/silasWorked/gemini-assistant?style=flat-square" alt="Top Language" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=silasWorked&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
